@@ -20,6 +20,7 @@
 ## Habilidades em desenvolvimento 📓
 
 - Conhecimento avançado em hardware, redes e manutenção de computadores
+- Instalação de Software
 - Familiaridade com Word e Power Point
 - Iniciando em Desenvolvimento de Sistemas
 - Cursou Inglês Intermediário 
