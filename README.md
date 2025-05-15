@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou Gregory de Lima 👋🏻
 
-<!--
-**Gregz747/Gregz747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aluno do curso de Informática 🖥
 
-Here are some ideas to get you started:
+#### Sobre Mim ☝🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Atualmente, curso Técnico de Informática, onde estou desenvolvendo habilidades em infraestrutura de TI, suporte técnico, redes e lógica de programação. Sou uma pessoa com interesse em aprender sobre novas tecnologias, segurança da informação e desenvolvimento de software.
+
+* Busco minha primeira oportunidade profissional na área de TI para aplicar meus conhecimentos acadêmicos e contribuir com soluções inovadoras. Tenho facilidade com aprendizado rápido e trabalho em equipe, além de ser comprometido com o desenvolvimento contínuo.
+
+## Formação Acadêmica 🧑‍🎓
+
+- 3ª Ano ENSINO MÉDIO - Andamento
+- Técnico em Informática - SENAC SMP - Andamento
+- Fundamentos de Ti: Hardware e Software - FUNDAÇÃO BRADESCO
+- Introdução á gestão estratégia da TI - FGV
+- Inglês Intermediário - Kumon
+- Curso Básico - Apreender a Empreender - SEBRAE
+
+## Habilidades em desenvolvimento 📓
+
+- Conhecimento avançado em hardware, redes e manutenção de computadores
+- Familiaridade com Word e Power Point
+- Iniciando em Desenvolvimento de Sistemas
+- Cursou Inglês Intermediário 
+
+
+##  Habilidades Técnicas 💻
+
+* Windows Server(AD, GPO's);
+* Implantação de Rede
+* Reparo e Manutenção de Computadores
+
+## Certificações 🎓
+
+- Fundamentos de Ti: Hardware e Software - FUNDAÇÃO BRADESCO
+- Introdução á gestão estratégia da TI - FGV
+- Inglês Intermediário - Kumon
+- Curso Básico - Apreender a Empreender - SEBRAE
+- Assistente de Suporte e Manutenção de Computadores - SENAC
+
+## Contato 📫 
+
+Email: gregory.lvgg1212@gmail.com
