@@ -12,10 +12,7 @@
 
 - 3ª Ano ENSINO MÉDIO - Andamento
 - Técnico em Informática - SENAC SMP - Andamento
-- Fundamentos de Ti: Hardware e Software - FUNDAÇÃO BRADESCO
-- Introdução á gestão estratégia da TI - FGV
 - Inglês Intermediário - Kumon
-- Curso Básico - Apreender a Empreender - SEBRAE
 
 ## Habilidades em desenvolvimento 📓
 
@@ -40,6 +37,7 @@
 - Curso Básico - Apreender a Empreender - SEBRAE
 - Assistente de Suporte e Manutenção de Computadores - SENAC
 - Assistente de Operação de Redes
+- Cisco - Fundamentos de Redes
 
 ## Contato 📫 
 
