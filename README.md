@@ -39,6 +39,7 @@
 - Inglês Intermediário - Kumon
 - Curso Básico - Apreender a Empreender - SEBRAE
 - Assistente de Suporte e Manutenção de Computadores - SENAC
+- Assistente de Operação de Redes
 
 ## Contato 📫 
 
